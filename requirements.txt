@@ -1,4 +1,5 @@
 streamlit
-selenium
-bs4
-PyPDF3
+seleniumbase
+webdriver-manager
+requests
+PyPDF2
